@@ -1,0 +1,99 @@
+#contact{
+    background-color: black;
+    color: white;
+}
+.heading{
+    text-align: center;
+    padding: 30px;
+}
+.information{
+    padding: 20px;
+    text-align: center;
+}
+.information input{
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    border: 2px solid white;
+    border-radius: 5px;
+}
+#contact .call-to-action{
+    text-align: center;
+    padding: 10px;
+    background-color: dodgerblue;
+    width: 200px;
+    margin: 0px auto;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+#contact .call-to-action a{
+    color: white;
+    text-decoration: none;
+}
+#contact .detail{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    margin: 10px;
+}
+#contact .detail i{
+    padding: 0px 20px;
+}
+#contact .contact-detail{
+    text-align: center;
+    padding: 20px;
+}
+.contact h2{
+    font-size: 1.2em;
+    padding: 5px;
+}
+.contact p{
+    font-size: 0.8em;
+    padding-bottom: 20px;
+}
+.contact-info p{
+    font-size: 0.8em;
+    padding: 5px;
+}
+.contact-info{
+    padding: 20px;
+}
+.contact-icons .iconss{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin: auto;
+}
+.contact-icons li{
+    padding-bottom: 10px;
+}
+.contact-icons li a{
+    color: white;
+}
+.contact-end{
+    padding-bottom: 30px;
+}
+.footer nav{
+    display: flex;
+    justify-content: space-around;
+}
+.footer nav .icons2{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+
+}
+.footer nav li{
+    padding: 30px;
+}
+.footer nav li a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+
